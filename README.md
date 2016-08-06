@@ -1,4 +1,7 @@
-# hello-world
-Initial Git Sample Project
+hello-world
 
-We are testing the branch modification
+Initial Git Sample Intro Project
+
+Not merged?
+
+Let add this line
